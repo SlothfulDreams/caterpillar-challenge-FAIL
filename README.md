@@ -192,3 +192,14 @@ pytest
 - Learned how to use request-mock
 - To not be too fixated on one exact method
   - Was stuck on implementing mock requests using the unittest.mock library
+
+---
+
+# Result (Fail)
+
+## Feedback
+
+- Include a line in the README to point to the entry point (Lots of functions make it confusing to know where it was at)
+
+- Some of the functions could have been abstracted more
+  - Calculating the average could have been abstracted more as there was alot of repeated code there
