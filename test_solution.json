@@ -1,0 +1,48 @@
+[
+    {
+        "driverId": 5,
+        "riderIds": [
+            3,
+            4
+        ],
+        "averagePickup": {
+            "x": 9,
+            "y": 9
+        },
+        "averageDropoff": {
+            "x": 9,
+            "y": 7
+        }
+    },
+    {
+        "driverId": 6,
+        "riderIds": [
+            7,
+            10
+        ],
+        "averagePickup": {
+            "x": 10,
+            "y": 8
+        },
+        "averageDropoff": {
+            "x": 6,
+            "y": 7
+        }
+    },
+    {
+        "driverId": 1,
+        "riderIds": [
+            2,
+            8,
+            9
+        ],
+        "averagePickup": {
+            "x": 5,
+            "y": 2
+        },
+        "averageDropoff": {
+            "x": 8,
+            "y": 7
+        }
+    }
+]
